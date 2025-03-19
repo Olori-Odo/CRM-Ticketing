@@ -3,8 +3,8 @@ import DashboardLayout from "./Layout/DashboardLayout.jsx";
 import Login from "./Layout/DashboardLayout.jsx";
 import Officials from "./pages/officials/Officials";
 import TicketPage from "./pages/ticketpage/TicketPage";
-import SignUp from "./Layout/SignUp.jsx";
-import LandingPage from "./Landing/LandingPage";
+import SignUp from "./Layout/Signup.jsx";
+import LandingPage from "./Landing/LandingPage.jsx";
 
 const router = createBrowserRouter([
   {
